@@ -43,6 +43,8 @@ public class CharacterMovementController : MonoBehaviour
         _characterController.Move(_playerMovement * _speed * Time.deltaTime); //Запихиваем передвежение персонажа в _characterController
         _animator.SetFloat("Z",_z);
         _animator.SetFloat("X",_x);
+        _camera.SetFloat("Z",_z);
+        _camera.SetFloat("X",_x);
         _velocity.y += _gravity * Time.deltaTime; //формула падения
         _characterController.Move(_velocity * Time.deltaTime); //Запихиваем формулу падения в _characterController.Так же по этой формуле ускорение умножено дважды на время из за этого мы умножаем _velocity еще раз на Time.deltaTime
 

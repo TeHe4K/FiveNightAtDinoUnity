@@ -1,6 +1,9 @@
 { "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 03ca6299 (добавил скрипт)
 ,{ "pid":12345, "tid":0, "ts":1657271815565230, "dur":8024, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1657271815573303, "dur":26352, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
 ,{ "pid":12345, "tid":0, "ts":1657271815599964, "dur":207, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
@@ -1063,6 +1066,7 @@
 ,{ "pid":12345, "tid":2, "ts":1657271817757879, "dur":9453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Library/ScriptAssemblies/Assembly-CSharp.dll" }}
 ,{ "pid":12345, "tid":2, "ts":1657271817767351, "dur":2895, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1657271817796301, "dur":11775, "ph":"X", "name": "ProfilerWriteOutput" }
+<<<<<<< HEAD
 =======
 ,{ "pid":12345, "tid":0, "ts":1657268398165326, "dur":12988, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1657268398178322, "dur":580, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
@@ -3266,4 +3270,6 @@
 ,{ "pid":12345, "tid":8, "ts":1657280359822846, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1657280359827333, "dur":4988, "ph":"X", "name": "ProfilerWriteOutput" }
 >>>>>>> de004579e254ea6ddc2ce9ff57533890a54ccb32
+=======
+>>>>>>> parent of 03ca6299 (добавил скрипт)
 ,

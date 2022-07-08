@@ -11,6 +11,9 @@
 { "pid": 0, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 03ca6299 (добавил скрипт)
 { "pid": 0, "tid": 1, "ts": 1657271814861943, "dur": 3111425, "ph": "X", "name": "Build ScriptAssemblies", "args": {} },
 { "pid": 0, "tid": 1, "ts": 1657271814873021, "dur": 356712, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
 { "pid": 0, "tid": 1, "ts": 1657271815231516, "dur": 2638905, "ph": "X", "name": "Run Backend", "args": {} },
@@ -1082,6 +1085,7 @@
 ,{ "pid":12345, "tid":0, "ts":1657271817796301, "dur":11775, "ph":"X", "name": "ProfilerWriteOutput" }
 ,{ "pid": 0, "tid": 1, "ts": 1657271818013571, "dur": 33553, "ph": "X", "name": "backend_profiler0.traceevents", "args": {} },
 { "pid": 0, "tid": 1, "ts": 1657271817995375, "dur": 51895, "ph": "X", "name": "Write chrome-trace events", "args": {} },
+<<<<<<< HEAD
 =======
 { "pid": 0, "tid": 1, "ts": 1657268397934846, "dur": 333383, "ph": "X", "name": "Build ScriptAssemblies", "args": {} },
 { "pid": 0, "tid": 1, "ts": 1657268397936047, "dur": 137151, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
@@ -3303,6 +3307,8 @@
 ,{ "pid": 0, "tid": 1, "ts": 1657280359855736, "dur": 3894, "ph": "X", "name": "backend_profiler0.traceevents", "args": {} },
 { "pid": 0, "tid": 1, "ts": 1657280359851828, "dur": 7845, "ph": "X", "name": "Write chrome-trace events", "args": {} },
 >>>>>>> de004579e254ea6ddc2ce9ff57533890a54ccb32
+=======
+>>>>>>> parent of 03ca6299 (добавил скрипт)
 {}
 
 ]

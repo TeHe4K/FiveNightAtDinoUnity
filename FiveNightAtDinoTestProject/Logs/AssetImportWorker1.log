@@ -17,6 +17,7 @@ Logs/AssetImportWorker1.log
 -srvPort
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 59781
 Successfully changed project path to: D:/Проекты/Gir hub/FiveNightAtDinoUnity/FiveNightAtDinoTestProject
 D:/Проекты/Gir hub/FiveNightAtDinoUnity/FiveNightAtDinoTestProject
@@ -28,6 +29,11 @@ D:/Проекты/Gir hub/FiveNightAtDinoUnity/FiveNightAtDinoTestProject
 Successfully changed project path to: E:/GitHub/FiveNightAtDinoUnity/FiveNightAtDinoTestProject
 E:/GitHub/FiveNightAtDinoUnity/FiveNightAtDinoTestProject
 >>>>>>> f252bdbc8d8b5281d5410b5b8494f79136632e4f
+=======
+59781
+Successfully changed project path to: D:/Проекты/Gir hub/FiveNightAtDinoUnity/FiveNightAtDinoTestProject
+D:/Проекты/Gir hub/FiveNightAtDinoUnity/FiveNightAtDinoTestProject
+>>>>>>> parent of 03ca6299 (добавил скрипт)
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -59,6 +65,7 @@ E:/GitHub/FiveNightAtDinoUnity/FiveNightAtDinoTestProject
     "memorysetup-temp-allocator-size-gfx=262144"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 747.07 ms, found 3 plugins.
 =======
 Refreshing native plugins compatible for Editor in 96.42 ms, found 3 plugins.
@@ -66,6 +73,9 @@ Refreshing native plugins compatible for Editor in 96.42 ms, found 3 plugins.
 =======
 Refreshing native plugins compatible for Editor in 101.08 ms, found 3 plugins.
 >>>>>>> de004579e254ea6ddc2ce9ff57533890a54ccb32
+=======
+Refreshing native plugins compatible for Editor in 747.07 ms, found 3 plugins.
+>>>>>>> parent of 03ca6299 (добавил скрипт)
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.4f1 (cb45f9cae8b7)
 [Subsystems] Discovering subsystems at path D:/Unity/2021.3.4f1/Editor/Data/Resources/UnitySubsystems
@@ -78,7 +88,6 @@ Direct3D:
     VRAM:     373 MB
     Driver:   15.201.1151.0
 Initialize mono
-<<<<<<< HEAD
 Mono path[0] = 'D:/Unity/2021.3.4f1/Editor/Data/Managed'
 Mono path[1] = 'D:/Unity/2021.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'D:/Unity/2021.3.4f1/Editor/Data/MonoBleedingEdge/etc'
@@ -91,6 +100,7 @@ Register platform support module: D:/Unity/2021.3.4f1/Editor/Data/PlaybackEngine
 Register platform support module: D:/Unity/2021.3.4f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
 Registered in 0.036089 seconds.
 Native extension for LinuxStandalone target not found
+<<<<<<< HEAD
 =======
 Mono path[0] = 'E:/Unity/Editor/2021.3.4f1/Editor/Data/Managed'
 Mono path[1] = 'E:/Unity/Editor/2021.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
@@ -111,6 +121,11 @@ Native extension for iOS target not found
 Native extension for Android target not found
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+>>>>>>> parent of 03ca6299 (добавил скрипт)
 Refreshing native plugins compatible for Editor in 937.86 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
@@ -118,6 +133,7 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling:
 	ReloadAssembly (15704ms)
 		BeginReloadAssembly (688ms)
+<<<<<<< HEAD
 =======
 Refreshing native plugins compatible for Editor in 85.95 ms, found 3 plugins.
 =======
@@ -135,11 +151,12 @@ Domain Reload Profiling:
 	ReloadAssembly (826ms)
 		BeginReloadAssembly (90ms)
 >>>>>>> de004579e254ea6ddc2ce9ff57533890a54ccb32
+=======
+>>>>>>> parent of 03ca6299 (добавил скрипт)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-<<<<<<< HEAD
 			CreateAndSetChildDomain (16ms)
 		EndReloadAssembly (13614ms)
 			LoadAssemblies (674ms)
@@ -155,6 +172,7 @@ Domain Reload Profiling:
 				BeforeProcessingInitializeOnLoad (8ms)
 				ProcessInitializeOnLoadAttributes (5870ms)
 				ProcessInitializeOnLoadMethodAttributes (2744ms)
+<<<<<<< HEAD
 =======
 			CreateAndSetChildDomain (1ms)
 		EndReloadAssembly (622ms)
@@ -177,12 +195,15 @@ Domain Reload Profiling:
 				ProcessInitializeOnLoadAttributes (127ms)
 				ProcessInitializeOnLoadMethodAttributes (64ms)
 >>>>>>> de004579e254ea6ddc2ce9ff57533890a54ccb32
+=======
+>>>>>>> parent of 03ca6299 (добавил скрипт)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (1ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 Registered in 0.073379 seconds.
@@ -324,3 +345,6 @@ Received Import Request.
   artifactKey: Guid(4f2369a9681e88f42b2946ff323b9164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Game/Props/Table/Material/Material.052.mat using Guid(4f2369a9681e88f42b2946ff323b9164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12a03305d7180935a8da2359cf5cab4f') in 0.106175 seconds 
 >>>>>>> de004579e254ea6ddc2ce9ff57533890a54ccb32
+=======
+Registered in 0.073379 seconds.
+>>>>>>> parent of 03ca6299 (добавил скрипт)

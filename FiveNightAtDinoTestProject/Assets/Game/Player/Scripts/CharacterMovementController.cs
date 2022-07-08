@@ -12,7 +12,7 @@ public class CharacterMovementController : MonoBehaviour
     private bool _isGrounded; //Находится ли персонаж на земле
     private CharacterController _characterController;//Переменная где будет хранится CharacterController
     private Animator _animator; // компонент для управления анимациями
-    private Animator _camera;
+    private Animator _camera; // компонент для управления анимациями камеры
 
     public Transform _groundChecker; //Обьект для понимания находится ли персонаж на земле
     public LayerMask _groundMask; //Слой который считается за землю
@@ -21,7 +21,7 @@ public class CharacterMovementController : MonoBehaviour
 
     private void Start()  
     {
-    _camera = GameObject.Find("PlayerCamera").GetComponent<Animator>();
+    _camera = GameObject.Find("PlayerCamera").GetComponent<Animator>(); //ищем компонент animator
     _characterController = GameObject.FindWithTag("Player").GetComponent<CharacterController>(); //ищем компонент CharacterController
     _animator = GameObject.FindWithTag("Player").GetComponent<Animator>(); //ищем компонент animator
     }
@@ -32,8 +32,12 @@ public class CharacterMovementController : MonoBehaviour
         if(_isGrounded && _velocity.y < 0) //Если персонаж на земле и ускорение больше 0 то ускорение ставим на -2f что бы при прыжке он не падал со скоростью света
         {
             _camera.SetBool("IsGroundedCamera",true);
-            _animator.SetBool("InGrounded",true);
             _velocity.y = -2f;
+        }
+
+        if(_isGrounded)
+        {
+            _animator.SetBool("InGrounded",true);
         }
 
         float _x = Input.GetAxis("Horizontal"); // Создаем новую переменную _x и записывает туда управление по горизонтали

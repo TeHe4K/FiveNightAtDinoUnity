@@ -56,4 +56,11 @@ public class CharacterMovementController : MonoBehaviour
 
         }
     }
+    private void OnCollisionEnter(Collision other) 
+    {
+        if(other.gameObject.CompareTag("Use subject"))
+        {
+            Debug.Log("Подними предмет!");
+        }
+    }
 }

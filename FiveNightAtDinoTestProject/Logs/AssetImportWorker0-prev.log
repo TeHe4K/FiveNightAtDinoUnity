@@ -15,7 +15,11 @@ E:/GitHub/FiveNightAtDinoUnity/FiveNightAtDinoTestProject
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
+<<<<<<< HEAD
 57424
+=======
+57373
+>>>>>>> f252bdbc8d8b5281d5410b5b8494f79136632e4f
 Successfully changed project path to: E:/GitHub/FiveNightAtDinoUnity/FiveNightAtDinoTestProject
 E:/GitHub/FiveNightAtDinoUnity/FiveNightAtDinoTestProject
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -47,7 +51,11 @@ E:/GitHub/FiveNightAtDinoUnity/FiveNightAtDinoTestProject
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 87.28 ms, found 3 plugins.
+=======
+Refreshing native plugins compatible for Editor in 202.09 ms, found 3 plugins.
+>>>>>>> f252bdbc8d8b5281d5410b5b8494f79136632e4f
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.4f1 (cb45f9cae8b7)
 [Subsystems] Discovering subsystems at path E:/Unity/Editor/2021.3.4f1/Editor/Data/Resources/UnitySubsystems
@@ -63,11 +71,16 @@ Initialize mono
 Mono path[0] = 'E:/Unity/Editor/2021.3.4f1/Editor/Data/Managed'
 Mono path[1] = 'E:/Unity/Editor/2021.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'E:/Unity/Editor/2021.3.4f1/Editor/Data/MonoBleedingEdge/etc'
+<<<<<<< HEAD
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56132
+=======
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56032
+>>>>>>> f252bdbc8d8b5281d5410b5b8494f79136632e4f
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: E:/Unity/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: E:/Unity/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+<<<<<<< HEAD
 Registered in 0.002535 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
@@ -78,10 +91,23 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling:
 	ReloadAssembly (647ms)
 		BeginReloadAssembly (68ms)
+=======
+Registered in 0.003990 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 106.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.954 seconds
+Domain Reload Profiling:
+	ReloadAssembly (955ms)
+		BeginReloadAssembly (134ms)
+>>>>>>> f252bdbc8d8b5281d5410b5b8494f79136632e4f
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
+<<<<<<< HEAD
 			CreateAndSetChildDomain (1ms)
 		EndReloadAssembly (484ms)
 			LoadAssemblies (68ms)
@@ -97,18 +123,40 @@ Domain Reload Profiling:
 				BeforeProcessingInitializeOnLoad (1ms)
 				ProcessInitializeOnLoadAttributes (99ms)
 				ProcessInitializeOnLoadMethodAttributes (45ms)
+=======
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (657ms)
+			LoadAssemblies (130ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (123ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (28ms)
+			SetupLoadedEditorAssemblies (454ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (57ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (107ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (232ms)
+				ProcessInitializeOnLoadMethodAttributes (57ms)
+>>>>>>> f252bdbc8d8b5281d5410b5b8494f79136632e4f
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 Registered in 0.004100 seconds.
+=======
+Registered in 0.003830 seconds.
+>>>>>>> f252bdbc8d8b5281d5410b5b8494f79136632e4f
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image E:\GitHub\FiveNightAtDinoUnity\FiveNightAtDinoTestProject\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image E:\GitHub\FiveNightAtDinoUnity\FiveNightAtDinoTestProject\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
@@ -139,16 +187,56 @@ Domain Reload Profiling:
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (6ms)
+=======
+Refreshing native plugins compatible for Editor in 0.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.448 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1449ms)
+		BeginReloadAssembly (315ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (13ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (142ms)
+		EndReloadAssembly (989ms)
+			LoadAssemblies (201ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (340ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (70ms)
+			SetupLoadedEditorAssemblies (377ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (13ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (97ms)
+				ProcessInitializeOnLoadAttributes (233ms)
+				ProcessInitializeOnLoadMethodAttributes (30ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+>>>>>>> f252bdbc8d8b5281d5410b5b8494f79136632e4f
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 0.93 ms, found 3 plugins.
+=======
+Refreshing native plugins compatible for Editor in 1.09 ms, found 3 plugins.
+>>>>>>> f252bdbc8d8b5281d5410b5b8494f79136632e4f
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3371 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 27 unused Assets / (111.3 KB). Loaded Objects now: 3829.
 Memory consumption went from 116.1 MB to 116.0 MB.
+<<<<<<< HEAD
 Total: 5.320400 ms (FindLiveObjects: 0.663000 ms CreateObjectMapping: 0.391800 ms MarkObjects: 4.071100 ms  DeleteObjects: 0.192100 ms)
+=======
+Total: 5.497900 ms (FindLiveObjects: 0.408600 ms CreateObjectMapping: 0.308300 ms MarkObjects: 4.596900 ms  DeleteObjects: 0.181800 ms)
+>>>>>>> f252bdbc8d8b5281d5410b5b8494f79136632e4f
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -160,6 +248,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+<<<<<<< HEAD
 ========================================================================
 Received Import Request.
   Time since last request: 212181.741212 seconds.
@@ -304,3 +393,299 @@ Received Import Request.
   path: Assets/Game/Props/Map/Materials/Cube.003_Cube.003Mat.mat
   artifactKey: Guid(60ed152027c29cd4ebc64aa5f5b2074b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Game/Props/Map/Materials/Cube.003_Cube.003Mat.mat using Guid(60ed152027c29cd4ebc64aa5f5b2074b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee4e62df7d552ebb7d50626ccb972398') in 0.011959 seconds 
+=======
+========================================================================
+Received Import Request.
+  Time since last request: 215709.458511 seconds.
+  path: Assets/Game/Props/Map/Materials/Метал.png
+  artifactKey: Guid(d3f2917b0981726419d9c8b460b9079b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Materials/Метал.png using Guid(d3f2917b0981726419d9c8b460b9079b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '806398524e1a723be4364ff47c7ba3e8') in 0.099234 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 83.181835 seconds.
+  path: Assets/Game/Props/Map/Materials/Нормал.png
+  artifactKey: Guid(82a59d015c7e0f34e9fd2a080c08e46f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Materials/Нормал.png using Guid(82a59d015c7e0f34e9fd2a080c08e46f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bb7ffc79c7c933f0794af94b7fb8574') in 0.023953 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 80.860617 seconds.
+  path: Assets/Game/Props/Map/Materials/Рофнес.png
+  artifactKey: Guid(94575a2a7150be24891318d3b5c88895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Materials/Рофнес.png using Guid(94575a2a7150be24891318d3b5c88895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43f71ed7c9bda25ebca61f79330d3032') in 0.024588 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 52.161954 seconds.
+  path: Assets/Game/Props/Map/Materials/комната 1-2.fbx
+  artifactKey: Guid(05b6ceb6b112f1e47995c828d25a7a26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Materials/комната 1-2.fbx using Guid(05b6ceb6b112f1e47995c828d25a7a26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4393985bf3586c6bb45277608b1d5fe') in 0.185560 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 24.614407 seconds.
+  path: Assets/Game/Props/Map/Materials/комната 1-2.fbx
+  artifactKey: Guid(05b6ceb6b112f1e47995c828d25a7a26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Materials/комната 1-2.fbx using Guid(05b6ceb6b112f1e47995c828d25a7a26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5db1483b7b1982c76274c6cd69cc5c1') in 0.060221 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.802037 seconds.
+  path: Assets/Game/Props/Map/Materials/комната 1-2.fbx
+  artifactKey: Guid(05b6ceb6b112f1e47995c828d25a7a26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Materials/комната 1-2.fbx using Guid(05b6ceb6b112f1e47995c828d25a7a26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79beed70fbcf152b6ba2f8cd10fa1900') in 0.069853 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.619456 seconds.
+  path: Assets/Game/Props/Map/Комната.obj
+  artifactKey: Guid(8678fe519468d2c4d905be6c71f2285e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Комната.obj using Guid(8678fe519468d2c4d905be6c71f2285e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80d2f1972d6fc8fd1a42323b5e16768b') in 0.026818 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.134341 seconds.
+  path: Assets/Game/Props/Map/Textures/Cube.003_Cube.003Mat.mat
+  artifactKey: Guid(1d25e8e2a96eee64a87424404fa0e700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Textures/Cube.003_Cube.003Mat.mat using Guid(1d25e8e2a96eee64a87424404fa0e700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '920f4e78958829221c2f84e115791a35') in 0.038336 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.776690 seconds.
+  path: Assets/Game/Props/Map/комната 1-2.fbx
+  artifactKey: Guid(05b6ceb6b112f1e47995c828d25a7a26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/комната 1-2.fbx using Guid(05b6ceb6b112f1e47995c828d25a7a26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9935fb83a169a6fa2a3d7c45c6ad477d') in 0.028121 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.475929 seconds.
+  path: Assets/Game/Props/Map/Materials/Material.002.mat
+  artifactKey: Guid(a05a051f31bbb6249bd661a856170b3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Materials/Material.002.mat using Guid(a05a051f31bbb6249bd661a856170b3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '314b9098b2b75430c6588fbc5c3c25bf') in 0.013034 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Game/Props/Map/Materials/Material.014.mat
+  artifactKey: Guid(48707b3820e55874098bd08e7b59429c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Materials/Material.014.mat using Guid(48707b3820e55874098bd08e7b59429c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6f44be4d1c30bb2a88878ab33c155f0') in 0.017373 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Game/Props/Map/Materials/Material.012.mat
+  artifactKey: Guid(31de0ac0dd713d84eb0fc19960a3118e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Materials/Material.012.mat using Guid(31de0ac0dd713d84eb0fc19960a3118e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecf4678f04f8190f77d9fefa96bf59c2') in 0.018551 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Game/Props/Map/Materials/Material.015.mat
+  artifactKey: Guid(953326994e8b7764eb3fccc00b0fdc74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Materials/Material.015.mat using Guid(953326994e8b7764eb3fccc00b0fdc74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '202810264596514924fa783e6d437477') in 0.016347 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Game/Props/Map/Materials/Material.013.mat
+  artifactKey: Guid(7e0f243cdab177348af6357edb82c8cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Materials/Material.013.mat using Guid(7e0f243cdab177348af6357edb82c8cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0de8f98d956b8e6d43e601be260f237f') in 0.017436 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 71.368377 seconds.
+  path: Assets/Game/Props/Map/Textures/BaseColorMaterial.002.png
+  artifactKey: Guid(5219c577fd6fa114998dd302959c397d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Textures/BaseColorMaterial.002.png using Guid(5219c577fd6fa114998dd302959c397d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87454c934ebd45779b43bff66314eecc') in 0.063173 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Game/Props/Map/Textures/RoughnessMaterial.002.png
+  artifactKey: Guid(9ba80a763be9951439a536235e2825b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Textures/RoughnessMaterial.002.png using Guid(9ba80a763be9951439a536235e2825b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9aee7d7353df45029e0b051ecd7faa7') in 0.018019 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Game/Props/Map/Textures/BaseColorMaterial.012.png
+  artifactKey: Guid(07624ad0fe2bc29488274ec948ddf246) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Textures/BaseColorMaterial.012.png using Guid(07624ad0fe2bc29488274ec948ddf246) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '522fa854e55c4df9766dbc3d3e1c8e15') in 0.021712 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Game/Props/Map/Textures/RoughnessMaterial.015.png
+  artifactKey: Guid(cceac49022d4bbd4c8661885a761de52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Textures/RoughnessMaterial.015.png using Guid(cceac49022d4bbd4c8661885a761de52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24b19f9af9e94e16a2d84dd8a6fbe0cd') in 0.023676 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Game/Props/Map/Textures/NormalMaterial.011.png
+  artifactKey: Guid(724303ded9ace01468e9c5e4f44199b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Textures/NormalMaterial.011.png using Guid(724303ded9ace01468e9c5e4f44199b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecac3ceb456f83c9b6c5e0cc9ca078f6') in 0.023260 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Game/Props/Map/Textures/MetalicMaterial.014.png
+  artifactKey: Guid(73bcbbf54525f504c99e73c9ff1df01e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Textures/MetalicMaterial.014.png using Guid(73bcbbf54525f504c99e73c9ff1df01e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16ded42c8cbd19b44e46d73400d4ec23') in 0.019619 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Game/Props/Map/Textures/NormalMaterial.013.png
+  artifactKey: Guid(c5a086cf1f3075d41aeecd3adbd24323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Textures/NormalMaterial.013.png using Guid(c5a086cf1f3075d41aeecd3adbd24323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bac4d693187bd8c63f0efc1199e3252') in 0.019507 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/Game/Props/Map/Textures/комната 1-2_Material.012_BaseMap.1001.png
+  artifactKey: Guid(7dc682534e11a3948af76a260fae9864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Textures/комната 1-2_Material.012_BaseMap.1001.png using Guid(7dc682534e11a3948af76a260fae9864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a35ad041e04a7999d58770faf355ea01') in 0.021244 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Game/Props/Map/Textures/комната 1-2_Material.002_Normal.1001.png
+  artifactKey: Guid(fa42acb7e9cbdd74a8dd985edd2dda2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Textures/комната 1-2_Material.002_Normal.1001.png using Guid(fa42acb7e9cbdd74a8dd985edd2dda2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0efc728d0d49482b9e253b1904a6eedb') in 0.018256 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Game/Props/Map/Textures/комната 1-2_Material.002_BaseMap.1001.png
+  artifactKey: Guid(94e263b6ef2aeba4da650e2b8c391157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Textures/комната 1-2_Material.002_BaseMap.1001.png using Guid(94e263b6ef2aeba4da650e2b8c391157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '608b48ae4cacb58414b7d87987445c43') in 0.018514 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Game/Props/Map/Textures/комната 1-2_Material.011_BaseMap.1001.png
+  artifactKey: Guid(6c34b74586f1a744d90655890f87151b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Textures/комната 1-2_Material.011_BaseMap.1001.png using Guid(6c34b74586f1a744d90655890f87151b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd39914a83b1009a07cfd5b7b3066c2cd') in 0.013196 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Game/Props/Map/Textures/MetalicMaterial.012.png
+  artifactKey: Guid(98d686f486a70044897bd58ad521dc29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Textures/MetalicMaterial.012.png using Guid(98d686f486a70044897bd58ad521dc29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63bc1c93b460f36be17bff8ea6ec4b35') in 0.019437 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Game/Props/Map/Textures/комната 1-2_Material.011_Normal.1001.png
+  artifactKey: Guid(62037eb363be0e64ca7a96703e61db33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Textures/комната 1-2_Material.011_Normal.1001.png using Guid(62037eb363be0e64ca7a96703e61db33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f0b7861f9a882c21aa9c2d6a64eb28f') in 0.015359 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Game/Props/Map/Textures/RoughnessMaterial.012.png
+  artifactKey: Guid(71f783f7b947c714c85c0e5aaa802cca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Textures/RoughnessMaterial.012.png using Guid(71f783f7b947c714c85c0e5aaa802cca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38276ec3ef36e0e5b4bda020370492a8') in 0.015531 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Game/Props/Map/Textures/NormalMaterial.015.png
+  artifactKey: Guid(bb27dc775d206de42a07eed29028741d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Textures/NormalMaterial.015.png using Guid(bb27dc775d206de42a07eed29028741d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '436812627003e27a43328f4aedcb58eb') in 0.015931 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Game/Props/Map/Textures/RoughnessMaterial.013.png
+  artifactKey: Guid(12058bae6c1b47a4e9716752d918bf24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Textures/RoughnessMaterial.013.png using Guid(12058bae6c1b47a4e9716752d918bf24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fa775cb15ac33dc9c7a2fef4a7ebe85') in 0.015755 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.416100 seconds.
+  path: Assets/Game/Props/Map/Textures/комната 1-2_Material.012_MaskMap.1001.png
+  artifactKey: Guid(f0aaf4471394c5a4594b8010dc571bbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Textures/комната 1-2_Material.012_MaskMap.1001.png using Guid(f0aaf4471394c5a4594b8010dc571bbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26b3d42c5278418f7c8015a9c87ed523') in 0.026129 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Game/Props/Map/Textures/комната 1-2_Material.015_MaskMap.1001.png
+  artifactKey: Guid(a0d13bbe0000c224e85fbf4b5f7bc2db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Textures/комната 1-2_Material.015_MaskMap.1001.png using Guid(a0d13bbe0000c224e85fbf4b5f7bc2db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '925af1a1b765a3a963ac4e126d5c7068') in 0.023276 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Game/Props/Map/Textures/комната 1-2_Material.013_Normal.1001.png
+  artifactKey: Guid(71b9618dcf408074eb106d5e6ff64eba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Textures/комната 1-2_Material.013_Normal.1001.png using Guid(71b9618dcf408074eb106d5e6ff64eba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '444148e1c44445629f817c8af3c9df0e') in 0.017602 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Game/Props/Map/Textures/комната 1-2_Material.015_BaseMap.1001.png
+  artifactKey: Guid(9cb64f03625004540b91d89e4338dddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Textures/комната 1-2_Material.015_BaseMap.1001.png using Guid(9cb64f03625004540b91d89e4338dddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd45ea9b6f54075c16912db7975bb49bd') in 0.019655 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Game/Props/Map/Textures/комната 1-2_Material.013_MaskMap.1001.png
+  artifactKey: Guid(a277bf98734e96e4bbbe3f595d4f0674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Textures/комната 1-2_Material.013_MaskMap.1001.png using Guid(a277bf98734e96e4bbbe3f595d4f0674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ad283579903a79510f972bfec5b2b7a') in 0.021072 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 89.599000 seconds.
+  path: Assets/Game/Props/Map/Textures/комната 1-2_Material.015_Normal.1001.png
+  artifactKey: Guid(0b0269ee5981d72479301d3bb647c975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Textures/комната 1-2_Material.015_Normal.1001.png using Guid(0b0269ee5981d72479301d3bb647c975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a517ae1691db6353df3070ace678f85') in 0.027598 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 106.970814 seconds.
+  path: Assets/Game/Props/Map/Textures/BaseColorMaterial.002.png
+  artifactKey: Guid(5219c577fd6fa114998dd302959c397d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Textures/BaseColorMaterial.002.png using Guid(5219c577fd6fa114998dd302959c397d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '220f376f9cca7262207ebff882eecf11') in 0.018729 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Game/Props/Map/Textures/RoughnessMaterial.002.png
+  artifactKey: Guid(9ba80a763be9951439a536235e2825b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Textures/RoughnessMaterial.002.png using Guid(9ba80a763be9951439a536235e2825b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e453b3403a50b334444e33b1c6d2a828') in 0.021395 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Game/Props/Map/Textures/BaseColorMaterial.013.png
+  artifactKey: Guid(a343dc2a4a24ba540ad286798ac4bd9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Textures/BaseColorMaterial.013.png using Guid(a343dc2a4a24ba540ad286798ac4bd9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f428ca36a0916d932fb380ef053cab5a') in 0.017174 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Game/Props/Map/Textures/MetalicMaterial.002.png
+  artifactKey: Guid(ed29f2f2441abcb49ba3f29ca79f1310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Textures/MetalicMaterial.002.png using Guid(ed29f2f2441abcb49ba3f29ca79f1310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef1a8dba98ed2713ee085ca3fec90eeb') in 0.018759 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/Game/Props/Map/Textures/RoughnessMaterial.014.png
+  artifactKey: Guid(ff83e61a237df0444a3e15568677c434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Textures/RoughnessMaterial.014.png using Guid(ff83e61a237df0444a3e15568677c434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4bda3d50428fca0656af82cc35e06c5') in 0.018256 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Game/Props/Map/Textures/MetalicMaterial.015.png
+  artifactKey: Guid(64995a17053e5744484c71c6a6a93328) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Textures/MetalicMaterial.015.png using Guid(64995a17053e5744484c71c6a6a93328) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ef037483048b674de6630429cb4dd0f') in 0.013895 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Game/Props/Map/Textures/RoughnessMaterial.011.png
+  artifactKey: Guid(c7abe9ee55dd0f54caceb0445e8a82cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Textures/RoughnessMaterial.011.png using Guid(c7abe9ee55dd0f54caceb0445e8a82cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9eedd86f9b791fc7d4ce2f131cbf36f6') in 0.020008 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Game/Props/Map/Textures/NormalMaterial.012.png
+  artifactKey: Guid(43f1ebe49a2f58b46988cb6379aa3bde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Textures/NormalMaterial.012.png using Guid(43f1ebe49a2f58b46988cb6379aa3bde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d403b7915d260c1676289029380f415') in 0.015335 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Game/Props/Map/Textures/MetalicMaterial.011.png
+  artifactKey: Guid(b23d2993133ea4b4dbf7e08d64c3e7c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Textures/MetalicMaterial.011.png using Guid(b23d2993133ea4b4dbf7e08d64c3e7c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0474357fee318b75383cb249158c117') in 0.015265 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Game/Props/Map/Textures/MetalicMaterial.012.png
+  artifactKey: Guid(98d686f486a70044897bd58ad521dc29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Textures/MetalicMaterial.012.png using Guid(98d686f486a70044897bd58ad521dc29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '925f7f2ab8e18db906e43c3ad1d4e8e2') in 0.016547 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Game/Props/Map/Textures/RoughnessMaterial.012.png
+  artifactKey: Guid(71f783f7b947c714c85c0e5aaa802cca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Textures/RoughnessMaterial.012.png using Guid(71f783f7b947c714c85c0e5aaa802cca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '117dc16c8baa7778b0884a149d1f51f1') in 0.018041 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Game/Props/Map/Textures/BaseColorMaterial.014.png
+  artifactKey: Guid(98338a291ed7f4a4daed093240a1ef65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Textures/BaseColorMaterial.014.png using Guid(98338a291ed7f4a4daed093240a1ef65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59d539c9a6cae2041aa4343859ba7837') in 0.016879 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.047111 seconds.
+  path: Assets/Game/Props/Map/Textures/NormalMaterial.002.png
+  artifactKey: Guid(be3681a4c9b63b3449e80928d36ac86c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Props/Map/Textures/NormalMaterial.002.png using Guid(be3681a4c9b63b3449e80928d36ac86c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed2ad33bef2b46d7355d4f210e8c9d45') in 0.019881 seconds 
+>>>>>>> f252bdbc8d8b5281d5410b5b8494f79136632e4f

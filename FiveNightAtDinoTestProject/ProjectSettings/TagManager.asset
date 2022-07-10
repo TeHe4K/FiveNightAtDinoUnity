@@ -4,7 +4,11 @@
 TagManager:
   serializedVersion: 2
   tags:
+<<<<<<< HEAD
+  - Use subject
+=======
   - PlayerCamera
+>>>>>>> de004579e254ea6ddc2ce9ff57533890a54ccb32
   layers:
   - Default
   - TransparentFX

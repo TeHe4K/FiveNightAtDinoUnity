@@ -1,1 +1,13 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":1.8501722812652588,"y":-0.19180035591125489,"z":2.5080273151397707},"rotation":{"x":0.08261938393115998,"y":0.8731589317321777,"z":-0.453255832195282,"w":0.15915951132774354},"size":1.0886982679367066,"orthographic":false}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":-1.139068603515625,"y":0.257600873708725,"z":-5.249783992767334},"rotation":{"x":0.015482954680919648,"y":-0.915794849395752,"z":0.03546792268753052,"w":0.3997833728790283},"size":0.3799366056919098,"orthographic":false}
+>>>>>>> f252bdbc8d8b5281d5410b5b8494f79136632e4f
+=======
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":0.12180924415588379,"y":1.023104190826416,"z":-5.391057968139648},"rotation":{"x":-0.07285062223672867,"y":-0.08754272758960724,"z":0.006421227939426899,"w":-0.9934762716293335},"size":2.7918899059295656,"orthographic":false}
+>>>>>>> de004579e254ea6ddc2ce9ff57533890a54ccb32
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":1.8501722812652588,"y":-0.19180035591125489,"z":2.5080273151397707},"rotation":{"x":0.08261938393115998,"y":0.8731589317321777,"z":-0.453255832195282,"w":0.15915951132774354},"size":1.0886982679367066,"orthographic":false}
+>>>>>>> parent of 03ca6299 (добавил скрипт)
